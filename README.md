@@ -15,14 +15,14 @@ Problem-solving experience.
 I have experience in team development, in two projects in which I was a team leader in a team of three people. Creating responsive single page applications and creating responsive design in React and Angular.
 
 ### My projects
+<img src = https://user-images.githubusercontent.com/83533289/186656497-7696633f-8455-401e-b1cb-c595fdc7bf4a.png width = "50" hegiht = "50 align = center />
 
-![image](https://user-images.githubusercontent.com/83533289/186656497-7696633f-8455-401e-b1cb-c595fdc7bf4a.png)
 
 * Art-quiz. SPA game on vanilla JS https://rolling-scopes-school.github.io/sem-chehovich-JSFE2021Q3/art-quiz/
 
 ********
 
-![image width = "5" hegiht = "5 align = center](https://user-images.githubusercontent.com/83533289/186656862-520d8c9e-3102-411a-b315-e30987075432.png)
+![image](https://user-images.githubusercontent.com/83533289/186656862-520d8c9e-3102-411a-b315-e30987075432.png)
 
 * Momentum is program widget on vanilla JS  https://rolling-scopes-school.github.io/sem-chehovich-JSFE2021Q3/momentum/
 
