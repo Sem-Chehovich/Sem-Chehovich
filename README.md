@@ -15,5 +15,6 @@ Problem-solving experience.
 I have experience in team development, in two projects in which I was a team leader in a team of three people. Creating responsive single page applications and creating responsive design in React and Angular.
 
 ### My projects
+![image](https://user-images.githubusercontent.com/83533289/186656497-7696633f-8455-401e-b1cb-c595fdc7bf4a.png)
 
-https://sem-chehovich-cv.netlify.app/img/1.png
+*Art-quiz. SPA game on vanilla JS https://rolling-scopes-school.github.io/sem-chehovich-JSFE2021Q3/art-quiz/
