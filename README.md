@@ -48,7 +48,7 @@ I have experience in team development, in two projects in which I was a team lea
 
 ![image](https://user-images.githubusercontent.com/83533289/186657908-f29e56cc-4bab-46df-83dc-7f4e56ebe60a.png)
 
-* Project management app on Angular https://project-management-app-group-one.netlify.app/welcome
+* Project management app on Angular https://project-management-app-group-one.netlify.app
 
 
 
