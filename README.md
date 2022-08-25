@@ -22,7 +22,7 @@ I have experience in team development, in two projects in which I was a team lea
 
 ********
 
-![image](https://user-images.githubusercontent.com/83533289/186656862-520d8c9e-3102-411a-b315-e30987075432.png)
+![image width = "500" hegiht = "500 align = center](https://user-images.githubusercontent.com/83533289/186656862-520d8c9e-3102-411a-b315-e30987075432.png)
 
 * Momentum is program widget on vanilla JS  https://rolling-scopes-school.github.io/sem-chehovich-JSFE2021Q3/momentum/
 
