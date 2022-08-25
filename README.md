@@ -42,7 +42,7 @@ I have experience in team development, in two projects in which I was a team lea
 
 ![image](https://user-images.githubusercontent.com/83533289/186657642-802d16ff-e5ab-470f-92ee-37c6e44b1851.png)
 
-* YouTube client app on Angular https://youtube-rs.netlify.app/auth
+* YouTube client app on Angular https://youtube-rs.netlify.app
 
 ********
 
